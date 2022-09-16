@@ -1,4 +1,6 @@
-### Hi there 👋
+### Olá, sou Breno Souza! 👋
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenosouza021)](https://github.com/brenosouza021-stats)
 
 <!--
 **brenosouza021/brenosouza021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
