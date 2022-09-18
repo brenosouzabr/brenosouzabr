@@ -1,4 +1,8 @@
-### Olá, sou Breno Souza! 👋
+## Olá, sou Breno Souza! 👋
+
+### Tecnologias que uso no meu dia:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenosouza021&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
