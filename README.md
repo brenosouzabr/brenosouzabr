@@ -1,11 +1,8 @@
 # Olá, sou Breno Souza! 👋
 
-### Tecnologias que uso no meu dia:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+### Estou estudando para me tornar um desenvolvedor Front End :)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenosouzabr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+### - 🌱 Atualmente estou estudando HTML e CSS
 <!--
 **brenosouza021/brenosouza021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
